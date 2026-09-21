@@ -1,0 +1,7 @@
+ONE-CLICK BUILD
+================
+GitHub Actions is already configured in:
+.github/workflows/build-apk.yml
+
+After uploading this project to GitHub:
+Actions -> Build Android APK -> Run workflow -> download Weekly750-debug-apk.
